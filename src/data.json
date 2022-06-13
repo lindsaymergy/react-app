@@ -1,0 +1,1586 @@
+{
+    "restaurants": [
+        {
+            "acceptsordersbeforeopening": false,
+            "acceptsordersuntilclosing": false,
+            "advanceonly": false,
+            "advanceorderdays": 60,
+            "allowhandoffchoiceatmanualfire": false,
+            "attributes": [],
+            "availabilitymessage": null,
+            "brand": "fiveguys",
+            "calendars": null,
+            "candeliver": false,
+            "canpickup": true,
+            "city": "Jersey City",
+            "contextualpricing": null,
+            "country": "US",
+            "crossstreet": "",
+            "customerfacingmessage": "Please be sure this location in Downtown Jersey City is the most convenient for you.\r\n\r\nDELIVERY now available at this location for delivery orders placed on fiveguys.com or the Five Guys app! Only bottled drinks available for delivery. Note that orders are delivered by a third-party provider.",
+            "customfields": [
+                {
+                    "id": 350470,
+                    "label": "Model",
+                    "qualificationcriteria": "CurbsidePickupOrdersOnly",
+                    "required": true,
+                    "validationregex": ""
+                },
+                {
+                    "id": 349057,
+                    "label": "Make",
+                    "qualificationcriteria": "CurbsidePickupOrdersOnly",
+                    "required": true,
+                    "validationregex": ""
+                },
+                {
+                    "id": 351883,
+                    "label": "Color",
+                    "qualificationcriteria": "CurbsidePickupOrdersOnly",
+                    "required": true,
+                    "validationregex": ""
+                }
+            ],
+            "deliveryarea": "",
+            "deliverydelayalertenabled": false,
+            "deliverydelayalertmessage": null,
+            "deliveryfee": 0,
+            "deliveryfeetiers": [],
+            "distance": 1.39,
+            "extref": "1924",
+            "hasolopass": false,
+            "id": 1203,
+            "isavailable": true,
+            "iscurrentlyopen": true,
+            "labels": [
+                {
+                    "key": "handoffmode_delivery",
+                    "value": "Delivery - DELIVERY 1st Party"
+                },
+                {
+                    "key": "handoffmode_dispatch",
+                    "value": " "
+                },
+                {
+                    "key": "handoffmode_pickup",
+                    "value": "In-Store Pickup"
+                },
+                {
+                    "key": "handoffmode_curbside",
+                    "value": "Curbside"
+                },
+                {
+                    "key": "handoffmode_drivethru",
+                    "value": "Mobile Drive-Up Window"
+                },
+                {
+                    "key": "handoffmode_dinein",
+                    "value": "Dine In"
+                },
+                {
+                    "key": "manual_fire_label",
+                    "value": "Check-in"
+                },
+                {
+                    "key": "thanks_curbsidepickup_instructions",
+                    "value": "For curbside pickup, please call the store when you arrive and we will run your order out to you. Thank you!"
+                },
+                {
+                    "key": "thanks_counterpickup_instructions",
+                    "value": "Thanks for your order!  When you arrive at the store, please proceed to the pickup counter for your food."
+                },
+                {
+                    "key": "thanks_delivery_instructions",
+                    "value": "Thanks for your order!"
+                },
+                {
+                    "key": "thanks_dispatch_instructions",
+                    "value": "Thanks for your order! Your Five Guys meal will be delivered soon by a third-party provider; please contact the store directly if you have any problems. Did you know our fries can be reheated? Simply preheat your oven to 350° F and cook for five minutes!"
+                },
+                {
+                    "key": "thanks_drivethru_instructions",
+                    "value": "Provide your name or order number to the attendant at drive-thru when you arrive."
+                },
+                {
+                    "key": "thanks_dinein_instructions",
+                    "value": "Thanks for your order!"
+                },
+                {
+                    "key": "thanks_pickupinstructions",
+                    "value": "Thanks for your order!  When you arrive at the store, please proceed to the pickup counter for your food."
+                }
+            ],
+            "latitude": 40.7160735,
+            "longitude": -74.0350651,
+            "maximumpayinstoreorder": 0.0000,
+            "metadata": null,
+            "minimumdeliveryorder": 0.0000,
+            "minimumpickuporder": 0.0000,
+            "mobileurl": null,
+            "name": "Five Guys Jersey City",
+            "productrecipientnamelabel": "Name (no special instructions):",
+            "requiresphonenumber": true,
+            "showcalories": true,
+            "slug": "jersey-city",
+            "specialinstructionsmaxlength": 45,
+            "state": "NJ",
+            "storename": "Five Guys",
+            "streetaddress": "101 Hudson St",
+            "suggestedtippercentage": 0,
+            "supportedarrivalmessagehandoffmodes": [],
+            "supportedcardtypes": "American Express/Discover/MasterCard/Visa",
+            "supportedcountries": [
+                "CA",
+                "US"
+            ],
+            "supportedtimemodes": [
+                "advance",
+                "asap"
+            ],
+            "supportsbaskettransfers": true,
+            "supportscoupons": true,
+            "supportscurbside": true,
+            "supportsdinein": false,
+            "supportsdispatch": true,
+            "supportsdrivethru": false,
+            "supportsfeedback": true,
+            "supportsgrouporders": true,
+            "supportsguestordering": true,
+            "supportsloyalty": false,
+            "supportsmanualfire": false,
+            "supportsnationalmenu": false,
+            "supportsonlineordering": true,
+            "supportsproductrecipientnames": false,
+            "supportsspecialinstructions": false,
+            "supportssplitpayments": false,
+            "supportstip": true,
+            "telephone": "(505) 555-5555",
+            "url": null,
+            "utcoffset": -4,
+            "zip": "07302"
+        },
+        {
+            "acceptsordersbeforeopening": false,
+            "acceptsordersuntilclosing": true,
+            "advanceonly": false,
+            "advanceorderdays": 60,
+            "allowhandoffchoiceatmanualfire": false,
+            "attributes": [],
+            "availabilitymessage": null,
+            "brand": "fiveguys",
+            "calendars": null,
+            "candeliver": false,
+            "canpickup": true,
+            "city": "Brooklyn",
+            "contextualpricing": null,
+            "country": "US",
+            "crossstreet": "",
+            "customerfacingmessage": "PLEASE CALL THE STORE at the phone number listed above when you\r\narrive, tell us the color and model of your car, and we’ll run your order out to\r\nyou!",
+            "customfields": [
+                {
+                    "id": 350507,
+                    "label": "Model",
+                    "qualificationcriteria": "CurbsidePickupOrdersOnly",
+                    "required": true,
+                    "validationregex": ""
+                },
+                {
+                    "id": 349094,
+                    "label": "Make",
+                    "qualificationcriteria": "CurbsidePickupOrdersOnly",
+                    "required": true,
+                    "validationregex": ""
+                },
+                {
+                    "id": 351920,
+                    "label": "Color",
+                    "qualificationcriteria": "CurbsidePickupOrdersOnly",
+                    "required": true,
+                    "validationregex": ""
+                }
+            ],
+            "deliveryarea": "Brooklyn",
+            "deliverydelayalertenabled": false,
+            "deliverydelayalertmessage": null,
+            "deliveryfee": 0,
+            "deliveryfeetiers": [],
+            "distance": 1.64,
+            "extref": "1258",
+            "hasolopass": false,
+            "id": 2942,
+            "isavailable": true,
+            "iscurrentlyopen": true,
+            "labels": [
+                {
+                    "key": "handoffmode_delivery",
+                    "value": "Delivery - DELIVERY 1st Party"
+                },
+                {
+                    "key": "handoffmode_dispatch",
+                    "value": " "
+                },
+                {
+                    "key": "handoffmode_pickup",
+                    "value": "In-Store Pickup"
+                },
+                {
+                    "key": "handoffmode_curbside",
+                    "value": "Curbside"
+                },
+                {
+                    "key": "handoffmode_drivethru",
+                    "value": "Mobile Drive-Up Window"
+                },
+                {
+                    "key": "handoffmode_dinein",
+                    "value": "Dine In"
+                },
+                {
+                    "key": "manual_fire_label",
+                    "value": "Check-in"
+                },
+                {
+                    "key": "thanks_curbsidepickup_instructions",
+                    "value": "For curbside pickup, please call the store when you arrive and we will run your order out to you. Thank you!"
+                },
+                {
+                    "key": "thanks_counterpickup_instructions",
+                    "value": "Thanks for your order!  When you arrive at the store, please proceed to the pickup counter for your food."
+                },
+                {
+                    "key": "thanks_delivery_instructions",
+                    "value": "Thanks for your order!"
+                },
+                {
+                    "key": "thanks_dispatch_instructions",
+                    "value": "Thanks for your order! Your Five Guys meal will be delivered soon by a third-party provider; please contact the store directly if you have any problems. Did you know our fries can be reheated? Simply preheat your oven to 350° F and cook for five minutes!"
+                },
+                {
+                    "key": "thanks_drivethru_instructions",
+                    "value": "Provide your name or order number to the attendant at drive-thru when you arrive."
+                },
+                {
+                    "key": "thanks_dinein_instructions",
+                    "value": "Thanks for your order!"
+                },
+                {
+                    "key": "thanks_pickupinstructions",
+                    "value": "Thanks for your order!  When you arrive at the store, please proceed to the pickup counter for your food."
+                }
+            ],
+            "latitude": 40.693364,
+            "longitude": -73.9857147,
+            "maximumpayinstoreorder": 0.0000,
+            "metadata": null,
+            "minimumdeliveryorder": 0.0000,
+            "minimumpickuporder": 0.0000,
+            "mobileurl": null,
+            "name": "Five Guys Brooklyn - Metrotech",
+            "productrecipientnamelabel": "Name (no special instructions):",
+            "requiresphonenumber": true,
+            "showcalories": true,
+            "slug": "brooklyn-metrotech",
+            "specialinstructionsmaxlength": 45,
+            "state": "NY",
+            "storename": "Five Guys",
+            "streetaddress": "2 MetroTech Center",
+            "suggestedtippercentage": 0,
+            "supportedarrivalmessagehandoffmodes": [
+                "CurbsidePickup"
+            ],
+            "supportedcardtypes": "American Express/Discover/MasterCard/Visa",
+            "supportedcountries": [
+                "CA",
+                "US"
+            ],
+            "supportedtimemodes": [
+                "advance",
+                "asap"
+            ],
+            "supportsbaskettransfers": true,
+            "supportscoupons": true,
+            "supportscurbside": true,
+            "supportsdinein": false,
+            "supportsdispatch": true,
+            "supportsdrivethru": false,
+            "supportsfeedback": true,
+            "supportsgrouporders": true,
+            "supportsguestordering": true,
+            "supportsloyalty": false,
+            "supportsmanualfire": false,
+            "supportsnationalmenu": false,
+            "supportsonlineordering": true,
+            "supportsproductrecipientnames": false,
+            "supportsspecialinstructions": false,
+            "supportssplitpayments": false,
+            "supportstip": true,
+            "telephone": "(555) 555-5555",
+            "url": null,
+            "utcoffset": -4,
+            "zip": "11201"
+        },
+        {
+            "acceptsordersbeforeopening": false,
+            "acceptsordersuntilclosing": false,
+            "advanceonly": false,
+            "advanceorderdays": 60,
+            "allowhandoffchoiceatmanualfire": false,
+            "attributes": [],
+            "availabilitymessage": null,
+            "brand": "fiveguys",
+            "calendars": null,
+            "candeliver": false,
+            "canpickup": true,
+            "city": "New York",
+            "contextualpricing": null,
+            "country": "US",
+            "crossstreet": "x 7th Avenue",
+            "customerfacingmessage": "CURBSIDE PICKUP is now available at this location! Place your order and select CURBSIDE from the available options.\r\n\r\n \r\n\r\nPLEASE CALL THE STORE at the phone number listed above when you arrive, tell us the color and model of your car, and we’ll run your order out to you!",
+            "customfields": [
+                {
+                    "id": 349140,
+                    "label": "Make",
+                    "qualificationcriteria": "CurbsidePickupOrdersOnly",
+                    "required": true,
+                    "validationregex": ""
+                },
+                {
+                    "id": 350553,
+                    "label": "Model",
+                    "qualificationcriteria": "CurbsidePickupOrdersOnly",
+                    "required": true,
+                    "validationregex": ""
+                },
+                {
+                    "id": 351966,
+                    "label": "Color",
+                    "qualificationcriteria": "CurbsidePickupOrdersOnly",
+                    "required": true,
+                    "validationregex": ""
+                }
+            ],
+            "deliveryarea": " N/S  Houtson st - Charles st E/W st / Lincoln Hight Way - 6th st",
+            "deliverydelayalertenabled": false,
+            "deliverydelayalertmessage": null,
+            "deliveryfee": 0,
+            "deliveryfeetiers": [],
+            "distance": 2.04,
+            "extref": "261",
+            "hasolopass": false,
+            "id": 1454,
+            "isavailable": true,
+            "iscurrentlyopen": true,
+            "labels": [
+                {
+                    "key": "handoffmode_delivery",
+                    "value": "Delivery - DELIVERY 1st Party"
+                },
+                {
+                    "key": "handoffmode_dispatch",
+                    "value": " "
+                },
+                {
+                    "key": "handoffmode_pickup",
+                    "value": "In-Store Pickup"
+                },
+                {
+                    "key": "handoffmode_curbside",
+                    "value": "Curbside"
+                },
+                {
+                    "key": "handoffmode_drivethru",
+                    "value": "Mobile Drive-Up Window"
+                },
+                {
+                    "key": "handoffmode_dinein",
+                    "value": "Dine In"
+                },
+                {
+                    "key": "manual_fire_label",
+                    "value": "Check-in"
+                },
+                {
+                    "key": "thanks_curbsidepickup_instructions",
+                    "value": "For curbside pickup, please call the store when you arrive and we will run your order out to you. Thank you!"
+                },
+                {
+                    "key": "thanks_counterpickup_instructions",
+                    "value": "Thanks for your order!  When you arrive at the store, please proceed to the pickup counter for your food."
+                },
+                {
+                    "key": "thanks_delivery_instructions",
+                    "value": "Thanks for your order!"
+                },
+                {
+                    "key": "thanks_dispatch_instructions",
+                    "value": "Thanks for your order! Your Five Guys meal will be delivered soon by a third-party provider; please contact the store directly if you have any problems. Did you know our fries can be reheated? Simply preheat your oven to 350° F and cook for five minutes!"
+                },
+                {
+                    "key": "thanks_drivethru_instructions",
+                    "value": "Provide your name or order number to the attendant at drive-thru when you arrive."
+                },
+                {
+                    "key": "thanks_dinein_instructions",
+                    "value": "Thanks for your order!"
+                },
+                {
+                    "key": "thanks_pickupinstructions",
+                    "value": "Thanks for your order!  When you arrive at the store, please proceed to the pickup counter for your food."
+                }
+            ],
+            "latitude": 40.7323381,
+            "longitude": -74.0038162,
+            "maximumpayinstoreorder": 0.0000,
+            "metadata": null,
+            "minimumdeliveryorder": 15.0000,
+            "minimumpickuporder": 0.0000,
+            "mobileurl": null,
+            "name": "Five Guys NYC - Bleecker St",
+            "productrecipientnamelabel": "Name (no special instructions):",
+            "requiresphonenumber": true,
+            "showcalories": true,
+            "slug": "nyc-bleecker-st",
+            "specialinstructionsmaxlength": 45,
+            "state": "NY",
+            "storename": "Five Guys",
+            "streetaddress": "296 Bleecker St",
+            "suggestedtippercentage": 0,
+            "supportedarrivalmessagehandoffmodes": [],
+            "supportedcardtypes": "American Express/Discover/MasterCard/Visa",
+            "supportedcountries": [
+                "CA",
+                "US"
+            ],
+            "supportedtimemodes": [
+                "advance",
+                "asap"
+            ],
+            "supportsbaskettransfers": true,
+            "supportscoupons": true,
+            "supportscurbside": true,
+            "supportsdinein": false,
+            "supportsdispatch": true,
+            "supportsdrivethru": false,
+            "supportsfeedback": true,
+            "supportsgrouporders": true,
+            "supportsguestordering": true,
+            "supportsloyalty": false,
+            "supportsmanualfire": false,
+            "supportsnationalmenu": false,
+            "supportsonlineordering": true,
+            "supportsproductrecipientnames": false,
+            "supportsspecialinstructions": false,
+            "supportssplitpayments": false,
+            "supportstip": true,
+            "telephone": "(555) 555-5555",
+            "url": null,
+            "utcoffset": -4,
+            "zip": "10014"
+        },
+        {
+            "acceptsordersbeforeopening": false,
+            "acceptsordersuntilclosing": false,
+            "advanceonly": false,
+            "advanceorderdays": 60,
+            "allowhandoffchoiceatmanualfire": false,
+            "attributes": [],
+            "availabilitymessage": null,
+            "brand": "fiveguys",
+            "calendars": null,
+            "candeliver": false,
+            "canpickup": true,
+            "city": "New York",
+            "contextualpricing": null,
+            "country": "US",
+            "crossstreet": "off 6th Avenue",
+            "customerfacingmessage": "\r\nCURBSIDE PICKUP is now available at this location! Place your order and select CURBSIDE from the available options.\r\n\r\n \r\n\r\nPLEASE CALL THE STORE at the phone number listed above when you arrive, tell us the color and model of your car, and we’ll run your order out to you!",
+            "customfields": [
+                {
+                    "id": 351910,
+                    "label": "Color",
+                    "qualificationcriteria": "CurbsidePickupOrdersOnly",
+                    "required": true,
+                    "validationregex": ""
+                },
+                {
+                    "id": 349084,
+                    "label": "Make",
+                    "qualificationcriteria": "CurbsidePickupOrdersOnly",
+                    "required": true,
+                    "validationregex": ""
+                },
+                {
+                    "id": 350497,
+                    "label": "Model",
+                    "qualificationcriteria": "CurbsidePickupOrdersOnly",
+                    "required": true,
+                    "validationregex": ""
+                }
+            ],
+            "deliveryarea": "tbd",
+            "deliverydelayalertenabled": false,
+            "deliverydelayalertmessage": null,
+            "deliveryfee": 0,
+            "deliveryfeetiers": [],
+            "distance": 2.45,
+            "extref": "1620",
+            "hasolopass": false,
+            "id": 5591,
+            "isavailable": true,
+            "iscurrentlyopen": true,
+            "labels": [
+                {
+                    "key": "handoffmode_delivery",
+                    "value": "Delivery - DELIVERY 1st Party"
+                },
+                {
+                    "key": "handoffmode_dispatch",
+                    "value": " "
+                },
+                {
+                    "key": "handoffmode_pickup",
+                    "value": "In-Store Pickup"
+                },
+                {
+                    "key": "handoffmode_curbside",
+                    "value": "Curbside"
+                },
+                {
+                    "key": "handoffmode_drivethru",
+                    "value": "Mobile Drive-Up Window"
+                },
+                {
+                    "key": "handoffmode_dinein",
+                    "value": "Dine In"
+                },
+                {
+                    "key": "manual_fire_label",
+                    "value": "Check-in"
+                },
+                {
+                    "key": "thanks_curbsidepickup_instructions",
+                    "value": "For curbside pickup, please call the store when you arrive and we will run your order out to you. Thank you!"
+                },
+                {
+                    "key": "thanks_counterpickup_instructions",
+                    "value": "Thanks for your order!  When you arrive at the store, please proceed to the pickup counter for your food."
+                },
+                {
+                    "key": "thanks_delivery_instructions",
+                    "value": "Thanks for your order!"
+                },
+                {
+                    "key": "thanks_dispatch_instructions",
+                    "value": "Thanks for your order! Your Five Guys meal will be delivered soon by a third-party provider; please contact the store directly if you have any problems. Did you know our fries can be reheated? Simply preheat your oven to 350° F and cook for five minutes!"
+                },
+                {
+                    "key": "thanks_drivethru_instructions",
+                    "value": "Provide your name or order number to the attendant at drive-thru when you arrive."
+                },
+                {
+                    "key": "thanks_dinein_instructions",
+                    "value": "Thanks for your order!"
+                },
+                {
+                    "key": "thanks_pickupinstructions",
+                    "value": "Thanks for your order!  When you arrive at the store, please proceed to the pickup counter for your food."
+                }
+            ],
+            "latitude": 40.7367892,
+            "longitude": -73.9963862,
+            "maximumpayinstoreorder": 0.0000,
+            "metadata": null,
+            "minimumdeliveryorder": 0.0000,
+            "minimumpickuporder": 0.0000,
+            "mobileurl": null,
+            "name": "Five Guys 14th Street",
+            "productrecipientnamelabel": "Name (no special instructions):",
+            "requiresphonenumber": true,
+            "showcalories": true,
+            "slug": "five-guys-14th-street",
+            "specialinstructionsmaxlength": 45,
+            "state": "NY",
+            "storename": "Five Guys",
+            "streetaddress": "56 W. 14th Street",
+            "suggestedtippercentage": 0,
+            "supportedarrivalmessagehandoffmodes": [],
+            "supportedcardtypes": "American Express/Discover/MasterCard/Visa",
+            "supportedcountries": [
+                "CA",
+                "US"
+            ],
+            "supportedtimemodes": [
+                "advance",
+                "asap"
+            ],
+            "supportsbaskettransfers": true,
+            "supportscoupons": true,
+            "supportscurbside": true,
+            "supportsdinein": false,
+            "supportsdispatch": true,
+            "supportsdrivethru": false,
+            "supportsfeedback": true,
+            "supportsgrouporders": true,
+            "supportsguestordering": true,
+            "supportsloyalty": false,
+            "supportsmanualfire": false,
+            "supportsnationalmenu": false,
+            "supportsonlineordering": true,
+            "supportsproductrecipientnames": false,
+            "supportsspecialinstructions": false,
+            "supportssplitpayments": false,
+            "supportstip": true,
+            "telephone": "(555) 555-5555",
+            "url": null,
+            "utcoffset": -4,
+            "zip": "10011"
+        },
+        {
+            "acceptsordersbeforeopening": false,
+            "acceptsordersuntilclosing": false,
+            "advanceonly": false,
+            "advanceorderdays": 60,
+            "allowhandoffchoiceatmanualfire": false,
+            "attributes": [],
+            "availabilitymessage": null,
+            "brand": "fiveguys",
+            "calendars": null,
+            "candeliver": true,
+            "canpickup": true,
+            "city": "Brooklyn",
+            "contextualpricing": null,
+            "country": "US",
+            "crossstreet": "Between 6th & 7th St",
+            "customerfacingmessage": "CURBSIDE PICKUP is now available at this location! Place your order and select CURBSIDE from the available options.",
+            "customfields": [
+                {
+                    "id": 351921,
+                    "label": "Color",
+                    "qualificationcriteria": "CurbsidePickupOrdersOnly",
+                    "required": true,
+                    "validationregex": ""
+                },
+                {
+                    "id": 349095,
+                    "label": "Make",
+                    "qualificationcriteria": "CurbsidePickupOrdersOnly",
+                    "required": true,
+                    "validationregex": ""
+                },
+                {
+                    "id": 350508,
+                    "label": "Model",
+                    "qualificationcriteria": "CurbsidePickupOrdersOnly",
+                    "required": true,
+                    "validationregex": ""
+                }
+            ],
+            "deliveryarea": "Brooklyn",
+            "deliverydelayalertenabled": false,
+            "deliverydelayalertmessage": null,
+            "deliveryfee": 0,
+            "deliveryfeetiers": [],
+            "distance": 3,
+            "extref": "306",
+            "hasolopass": false,
+            "id": 1413,
+            "isavailable": true,
+            "iscurrentlyopen": true,
+            "labels": [
+                {
+                    "key": "handoffmode_delivery",
+                    "value": "Delivery - DELIVERY 1st Party"
+                },
+                {
+                    "key": "handoffmode_dispatch",
+                    "value": " "
+                },
+                {
+                    "key": "handoffmode_pickup",
+                    "value": "In-Store Pickup"
+                },
+                {
+                    "key": "handoffmode_curbside",
+                    "value": "Curbside"
+                },
+                {
+                    "key": "handoffmode_drivethru",
+                    "value": "Mobile Drive-Up Window"
+                },
+                {
+                    "key": "handoffmode_dinein",
+                    "value": "Dine In"
+                },
+                {
+                    "key": "manual_fire_label",
+                    "value": "Check-in"
+                },
+                {
+                    "key": "thanks_curbsidepickup_instructions",
+                    "value": "For curbside pickup, please call the store when you arrive and we will run your order out to you. Thank you!"
+                },
+                {
+                    "key": "thanks_counterpickup_instructions",
+                    "value": "Thanks for your order!  When you arrive at the store, please proceed to the pickup counter for your food."
+                },
+                {
+                    "key": "thanks_delivery_instructions",
+                    "value": "Thanks for your order!"
+                },
+                {
+                    "key": "thanks_dispatch_instructions",
+                    "value": "Thanks for your order! Your Five Guys meal will be delivered soon by a third-party provider; please contact the store directly if you have any problems. Did you know our fries can be reheated? Simply preheat your oven to 350° F and cook for five minutes!"
+                },
+                {
+                    "key": "thanks_drivethru_instructions",
+                    "value": "Provide your name or order number to the attendant at drive-thru when you arrive."
+                },
+                {
+                    "key": "thanks_dinein_instructions",
+                    "value": "Thanks for your order!"
+                },
+                {
+                    "key": "thanks_pickupinstructions",
+                    "value": "Thanks for your order!  When you arrive at the store, please proceed to the pickup counter for your food."
+                }
+            ],
+            "latitude": 40.6685639,
+            "longitude": -73.9803877,
+            "maximumpayinstoreorder": 0.0000,
+            "metadata": null,
+            "minimumdeliveryorder": 0.0000,
+            "minimumpickuporder": 0.0000,
+            "mobileurl": null,
+            "name": "Five Guys Brooklyn - Park Slope",
+            "productrecipientnamelabel": "Name (no special instructions):",
+            "requiresphonenumber": true,
+            "showcalories": true,
+            "slug": "brooklyn-park-slope",
+            "specialinstructionsmaxlength": 45,
+            "state": "NY",
+            "storename": "Five Guys",
+            "streetaddress": "284 7th Ave.",
+            "suggestedtippercentage": 0,
+            "supportedarrivalmessagehandoffmodes": [],
+            "supportedcardtypes": "Discover/MasterCard/Visa",
+            "supportedcountries": [
+                "CA",
+                "US"
+            ],
+            "supportedtimemodes": [
+                "advance",
+                "asap"
+            ],
+            "supportsbaskettransfers": true,
+            "supportscoupons": true,
+            "supportscurbside": true,
+            "supportsdinein": false,
+            "supportsdispatch": false,
+            "supportsdrivethru": false,
+            "supportsfeedback": true,
+            "supportsgrouporders": true,
+            "supportsguestordering": true,
+            "supportsloyalty": false,
+            "supportsmanualfire": false,
+            "supportsnationalmenu": false,
+            "supportsonlineordering": true,
+            "supportsproductrecipientnames": false,
+            "supportsspecialinstructions": false,
+            "supportssplitpayments": false,
+            "supportstip": true,
+            "telephone": "(555) 555-5555",
+            "url": null,
+            "utcoffset": -4,
+            "zip": "11215"
+        },
+        {
+            "acceptsordersbeforeopening": false,
+            "acceptsordersuntilclosing": true,
+            "advanceonly": false,
+            "advanceorderdays": 60,
+            "allowhandoffchoiceatmanualfire": false,
+            "attributes": [],
+            "availabilitymessage": null,
+            "brand": "fiveguys",
+            "calendars": null,
+            "candeliver": false,
+            "canpickup": true,
+            "city": "New York",
+            "contextualpricing": null,
+            "country": "US",
+            "crossstreet": "29th st",
+            "customerfacingmessage": "\r\nCURBSIDE PICKUP is now available at this location! Place your order and select CURBSIDE from the available options.\r\n\r\n \r\n\r\nPLEASE CALL THE STORE at the phone number listed above when you arrive, tell us the color and model of your car, and we’ll run your order out to you!",
+            "customfields": [
+                {
+                    "id": 351965,
+                    "label": "Color",
+                    "qualificationcriteria": "CurbsidePickupOrdersOnly",
+                    "required": true,
+                    "validationregex": ""
+                },
+                {
+                    "id": 350552,
+                    "label": "Model",
+                    "qualificationcriteria": "CurbsidePickupOrdersOnly",
+                    "required": true,
+                    "validationregex": ""
+                },
+                {
+                    "id": 349139,
+                    "label": "Make",
+                    "qualificationcriteria": "CurbsidePickupOrdersOnly",
+                    "required": true,
+                    "validationregex": ""
+                }
+            ],
+            "deliveryarea": "",
+            "deliverydelayalertenabled": false,
+            "deliverydelayalertmessage": null,
+            "deliveryfee": 0,
+            "deliveryfeetiers": [],
+            "distance": 3.24,
+            "extref": "1361",
+            "hasolopass": false,
+            "id": 3807,
+            "isavailable": true,
+            "iscurrentlyopen": true,
+            "labels": [
+                {
+                    "key": "handoffmode_delivery",
+                    "value": "Delivery - DELIVERY 1st Party"
+                },
+                {
+                    "key": "handoffmode_dispatch",
+                    "value": " "
+                },
+                {
+                    "key": "handoffmode_pickup",
+                    "value": "In-Store Pickup"
+                },
+                {
+                    "key": "handoffmode_curbside",
+                    "value": "Curbside"
+                },
+                {
+                    "key": "handoffmode_drivethru",
+                    "value": "Mobile Drive-Up Window"
+                },
+                {
+                    "key": "handoffmode_dinein",
+                    "value": "Dine In"
+                },
+                {
+                    "key": "manual_fire_label",
+                    "value": "Check-in"
+                },
+                {
+                    "key": "thanks_curbsidepickup_instructions",
+                    "value": "For curbside pickup, please call the store when you arrive and we will run your order out to you. Thank you!"
+                },
+                {
+                    "key": "thanks_counterpickup_instructions",
+                    "value": "Thanks for your order!  When you arrive at the store, please proceed to the pickup counter for your food."
+                },
+                {
+                    "key": "thanks_delivery_instructions",
+                    "value": "Thanks for your order!"
+                },
+                {
+                    "key": "thanks_dispatch_instructions",
+                    "value": "Thanks for your order! Your Five Guys meal will be delivered soon by a third-party provider; please contact the store directly if you have any problems. Did you know our fries can be reheated? Simply preheat your oven to 350° F and cook for five minutes!"
+                },
+                {
+                    "key": "thanks_drivethru_instructions",
+                    "value": "Provide your name or order number to the attendant at drive-thru when you arrive."
+                },
+                {
+                    "key": "thanks_dinein_instructions",
+                    "value": "Thanks for your order!"
+                },
+                {
+                    "key": "thanks_pickupinstructions",
+                    "value": "Thanks for your order!  When you arrive at the store, please proceed to the pickup counter for your food."
+                }
+            ],
+            "latitude": 40.7478669,
+            "longitude": -73.992534,
+            "maximumpayinstoreorder": 0.0000,
+            "metadata": null,
+            "minimumdeliveryorder": 0.0000,
+            "minimumpickuporder": 0.0000,
+            "mobileurl": null,
+            "name": "Five Guys NYC - 7th Ave",
+            "productrecipientnamelabel": "Name (no special instructions):",
+            "requiresphonenumber": true,
+            "showcalories": true,
+            "slug": "nyc-7th-ave",
+            "specialinstructionsmaxlength": 45,
+            "state": "NY",
+            "storename": "Five Guys",
+            "streetaddress": "343 7th Avenue",
+            "suggestedtippercentage": 0,
+            "supportedarrivalmessagehandoffmodes": [],
+            "supportedcardtypes": "American Express/Discover/MasterCard/Visa",
+            "supportedcountries": [
+                "CA",
+                "US"
+            ],
+            "supportedtimemodes": [
+                "advance",
+                "asap"
+            ],
+            "supportsbaskettransfers": true,
+            "supportscoupons": true,
+            "supportscurbside": true,
+            "supportsdinein": false,
+            "supportsdispatch": true,
+            "supportsdrivethru": false,
+            "supportsfeedback": true,
+            "supportsgrouporders": true,
+            "supportsguestordering": true,
+            "supportsloyalty": false,
+            "supportsmanualfire": false,
+            "supportsnationalmenu": false,
+            "supportsonlineordering": true,
+            "supportsproductrecipientnames": false,
+            "supportsspecialinstructions": false,
+            "supportssplitpayments": false,
+            "supportstip": true,
+            "telephone": "(555) 555-5555",
+            "url": null,
+            "utcoffset": -4,
+            "zip": "10001"
+        },
+        {
+            "acceptsordersbeforeopening": false,
+            "acceptsordersuntilclosing": false,
+            "advanceonly": false,
+            "advanceorderdays": 60,
+            "allowhandoffchoiceatmanualfire": false,
+            "attributes": [],
+            "availabilitymessage": null,
+            "brand": "fiveguys",
+            "calendars": null,
+            "candeliver": false,
+            "canpickup": true,
+            "city": "New York",
+            "contextualpricing": null,
+            "country": "US",
+            "crossstreet": "",
+            "customerfacingmessage": "CURBSIDE PICKUP is now available at this location! Place your order and select CURBSIDE from the available options.\r\n\r\n \r\n\r\nPLEASE CALL THE STORE at the phone number listed above when you arrive, tell us the color and model of your car, and we’ll run your order out to you!",
+            "customfields": [
+                {
+                    "id": 350576,
+                    "label": "Model",
+                    "qualificationcriteria": "CurbsidePickupOrdersOnly",
+                    "required": true,
+                    "validationregex": ""
+                },
+                {
+                    "id": 349163,
+                    "label": "Make",
+                    "qualificationcriteria": "CurbsidePickupOrdersOnly",
+                    "required": true,
+                    "validationregex": ""
+                },
+                {
+                    "id": 351989,
+                    "label": "Color",
+                    "qualificationcriteria": "CurbsidePickupOrdersOnly",
+                    "required": true,
+                    "validationregex": ""
+                }
+            ],
+            "deliveryarea": "",
+            "deliverydelayalertenabled": false,
+            "deliverydelayalertmessage": null,
+            "deliveryfee": 0,
+            "deliveryfeetiers": [],
+            "distance": 3.33,
+            "extref": "1802",
+            "hasolopass": false,
+            "id": 32872,
+            "isavailable": true,
+            "iscurrentlyopen": true,
+            "labels": [
+                {
+                    "key": "handoffmode_delivery",
+                    "value": "Delivery - DELIVERY 1st Party"
+                },
+                {
+                    "key": "handoffmode_dispatch",
+                    "value": " "
+                },
+                {
+                    "key": "handoffmode_pickup",
+                    "value": "In-Store Pickup"
+                },
+                {
+                    "key": "handoffmode_curbside",
+                    "value": "Curbside"
+                },
+                {
+                    "key": "handoffmode_drivethru",
+                    "value": "Mobile Drive-Up Window"
+                },
+                {
+                    "key": "handoffmode_dinein",
+                    "value": "Dine In"
+                },
+                {
+                    "key": "manual_fire_label",
+                    "value": "Check-in"
+                },
+                {
+                    "key": "thanks_curbsidepickup_instructions",
+                    "value": "For curbside pickup, please call the store when you arrive and we will run your order out to you. Thank you!"
+                },
+                {
+                    "key": "thanks_counterpickup_instructions",
+                    "value": "Thanks for your order!  When you arrive at the store, please proceed to the pickup counter for your food."
+                },
+                {
+                    "key": "thanks_delivery_instructions",
+                    "value": "Thanks for your order!"
+                },
+                {
+                    "key": "thanks_dispatch_instructions",
+                    "value": "Thanks for your order! Your Five Guys meal will be delivered soon by a third-party provider; please contact the store directly if you have any problems. Did you know our fries can be reheated? Simply preheat your oven to 350° F and cook for five minutes!"
+                },
+                {
+                    "key": "thanks_drivethru_instructions",
+                    "value": "Provide your name or order number to the attendant at drive-thru when you arrive."
+                },
+                {
+                    "key": "thanks_dinein_instructions",
+                    "value": "Thanks for your order!"
+                },
+                {
+                    "key": "thanks_pickupinstructions",
+                    "value": "Thanks for your order!  When you arrive at the store, please proceed to the pickup counter for your food."
+                }
+            ],
+            "latitude": 40.7464413,
+            "longitude": -73.9842472,
+            "maximumpayinstoreorder": 0.0000,
+            "metadata": null,
+            "minimumdeliveryorder": 0.0000,
+            "minimumpickuporder": 0.0000,
+            "mobileurl": null,
+            "name": "FiveGuys Madison Ave",
+            "productrecipientnamelabel": "Name (no special instructions):",
+            "requiresphonenumber": true,
+            "showcalories": true,
+            "slug": "five-guys-1802",
+            "specialinstructionsmaxlength": 45,
+            "state": "NY",
+            "storename": "Five Guys",
+            "streetaddress": "148 Madison Avenue @ 32nd Street",
+            "suggestedtippercentage": 0,
+            "supportedarrivalmessagehandoffmodes": [],
+            "supportedcardtypes": "American Express/Discover/MasterCard/Visa",
+            "supportedcountries": [
+                "CA",
+                "US"
+            ],
+            "supportedtimemodes": [
+                "advance",
+                "asap"
+            ],
+            "supportsbaskettransfers": true,
+            "supportscoupons": true,
+            "supportscurbside": true,
+            "supportsdinein": false,
+            "supportsdispatch": true,
+            "supportsdrivethru": false,
+            "supportsfeedback": true,
+            "supportsgrouporders": true,
+            "supportsguestordering": true,
+            "supportsloyalty": false,
+            "supportsmanualfire": false,
+            "supportsnationalmenu": false,
+            "supportsonlineordering": true,
+            "supportsproductrecipientnames": false,
+            "supportsspecialinstructions": false,
+            "supportssplitpayments": false,
+            "supportstip": true,
+            "telephone": "(555) 555-5555",
+            "url": null,
+            "utcoffset": -4,
+            "zip": "10016"
+        },
+        {
+            "acceptsordersbeforeopening": false,
+            "acceptsordersuntilclosing": true,
+            "advanceonly": false,
+            "advanceorderdays": 60,
+            "allowhandoffchoiceatmanualfire": false,
+            "attributes": [],
+            "availabilitymessage": null,
+            "brand": "fiveguys",
+            "calendars": null,
+            "candeliver": false,
+            "canpickup": true,
+            "city": "New York",
+            "contextualpricing": null,
+            "country": "US",
+            "crossstreet": "",
+            "customerfacingmessage": "CURBSIDE PICKUP is now available at this location! Place your order and select CURBSIDE from the available options.\r\n\r\n \r\n\r\nPLEASE CALL THE STORE at the phone number listed above when you arrive, tell us the color and model of your car, and we’ll run your order out to you!",
+            "customfields": [
+                {
+                    "id": 351961,
+                    "label": "Color",
+                    "qualificationcriteria": "CurbsidePickupOrdersOnly",
+                    "required": true,
+                    "validationregex": ""
+                },
+                {
+                    "id": 349135,
+                    "label": "Make",
+                    "qualificationcriteria": "CurbsidePickupOrdersOnly",
+                    "required": true,
+                    "validationregex": ""
+                },
+                {
+                    "id": 350548,
+                    "label": "Model",
+                    "qualificationcriteria": "CurbsidePickupOrdersOnly",
+                    "required": true,
+                    "validationregex": ""
+                }
+            ],
+            "deliveryarea": "tbd",
+            "deliverydelayalertenabled": false,
+            "deliverydelayalertmessage": null,
+            "deliveryfee": 0,
+            "deliveryfeetiers": [],
+            "distance": 3.51,
+            "extref": "1175",
+            "hasolopass": false,
+            "id": 1900,
+            "isavailable": true,
+            "iscurrentlyopen": true,
+            "labels": [
+                {
+                    "key": "handoffmode_delivery",
+                    "value": "Delivery - DELIVERY 1st Party"
+                },
+                {
+                    "key": "handoffmode_dispatch",
+                    "value": " "
+                },
+                {
+                    "key": "handoffmode_pickup",
+                    "value": "In-Store Pickup"
+                },
+                {
+                    "key": "handoffmode_curbside",
+                    "value": "Curbside"
+                },
+                {
+                    "key": "handoffmode_drivethru",
+                    "value": "Mobile Drive-Up Window"
+                },
+                {
+                    "key": "handoffmode_dinein",
+                    "value": "Dine In"
+                },
+                {
+                    "key": "manual_fire_label",
+                    "value": "Check-in"
+                },
+                {
+                    "key": "thanks_curbsidepickup_instructions",
+                    "value": "For curbside pickup, please call the store when you arrive and we will run your order out to you. Thank you!"
+                },
+                {
+                    "key": "thanks_counterpickup_instructions",
+                    "value": "Thanks for your order!  When you arrive at the store, please proceed to the pickup counter for your food."
+                },
+                {
+                    "key": "thanks_delivery_instructions",
+                    "value": "Thanks for your order!"
+                },
+                {
+                    "key": "thanks_dispatch_instructions",
+                    "value": "Thanks for your order! Your Five Guys meal will be delivered soon by a third-party provider; please contact the store directly if you have any problems. Did you know our fries can be reheated? Simply preheat your oven to 350° F and cook for five minutes!"
+                },
+                {
+                    "key": "thanks_drivethru_instructions",
+                    "value": "Provide your name or order number to the attendant at drive-thru when you arrive."
+                },
+                {
+                    "key": "thanks_dinein_instructions",
+                    "value": "Thanks for your order!"
+                },
+                {
+                    "key": "thanks_pickupinstructions",
+                    "value": "Thanks for your order!  When you arrive at the store, please proceed to the pickup counter for your food."
+                }
+            ],
+            "latitude": 40.7524823,
+            "longitude": -73.9947322,
+            "maximumpayinstoreorder": 0.0000,
+            "metadata": null,
+            "minimumdeliveryorder": 0.0000,
+            "minimumpickuporder": 0.0000,
+            "mobileurl": null,
+            "name": "Five Guys NYC - 34th St",
+            "productrecipientnamelabel": "Name (no special instructions):",
+            "requiresphonenumber": true,
+            "showcalories": true,
+            "slug": "nyc-34th-st",
+            "specialinstructionsmaxlength": 45,
+            "state": "NY",
+            "storename": "Five Guys",
+            "streetaddress": "316 West 34th Street",
+            "suggestedtippercentage": 0,
+            "supportedarrivalmessagehandoffmodes": [],
+            "supportedcardtypes": "American Express/Discover/MasterCard/Visa",
+            "supportedcountries": [
+                "CA",
+                "US"
+            ],
+            "supportedtimemodes": [
+                "advance",
+                "asap"
+            ],
+            "supportsbaskettransfers": true,
+            "supportscoupons": true,
+            "supportscurbside": true,
+            "supportsdinein": false,
+            "supportsdispatch": true,
+            "supportsdrivethru": false,
+            "supportsfeedback": true,
+            "supportsgrouporders": true,
+            "supportsguestordering": true,
+            "supportsloyalty": false,
+            "supportsmanualfire": false,
+            "supportsnationalmenu": false,
+            "supportsonlineordering": true,
+            "supportsproductrecipientnames": false,
+            "supportsspecialinstructions": false,
+            "supportssplitpayments": false,
+            "supportstip": true,
+            "telephone": "(555) 555-5555",
+            "url": null,
+            "utcoffset": -4,
+            "zip": "10036"
+        },
+        {
+            "acceptsordersbeforeopening": false,
+            "acceptsordersuntilclosing": false,
+            "advanceonly": false,
+            "advanceorderdays": 60,
+            "allowhandoffchoiceatmanualfire": false,
+            "attributes": [],
+            "availabilitymessage": null,
+            "brand": "fiveguys",
+            "calendars": null,
+            "candeliver": false,
+            "canpickup": true,
+            "city": "New York",
+            "contextualpricing": null,
+            "country": "US",
+            "crossstreet": "6th Ave & 37th st",
+            "customerfacingmessage": "CURBSIDE PICKUP is now available at this location! Place your order and select CURBSIDE from the available options.\r\n\r\n \r\n\r\nPLEASE CALL THE STORE at the phone number listed above when you arrive, tell us the color and model of your car, and we’ll run your order out to you!",
+            "customfields": [
+                {
+                    "id": 350549,
+                    "label": "Model",
+                    "qualificationcriteria": "CurbsidePickupOrdersOnly",
+                    "required": true,
+                    "validationregex": ""
+                },
+                {
+                    "id": 349136,
+                    "label": "Make",
+                    "qualificationcriteria": "CurbsidePickupOrdersOnly",
+                    "required": true,
+                    "validationregex": ""
+                },
+                {
+                    "id": 351962,
+                    "label": "Color",
+                    "qualificationcriteria": "CurbsidePickupOrdersOnly",
+                    "required": true,
+                    "validationregex": ""
+                }
+            ],
+            "deliveryarea": "",
+            "deliverydelayalertenabled": false,
+            "deliverydelayalertmessage": null,
+            "deliveryfee": 0,
+            "deliveryfeetiers": [],
+            "distance": 3.63,
+            "extref": "1857",
+            "hasolopass": false,
+            "id": 50729,
+            "isavailable": true,
+            "iscurrentlyopen": true,
+            "labels": [
+                {
+                    "key": "handoffmode_delivery",
+                    "value": "Delivery - DELIVERY 1st Party"
+                },
+                {
+                    "key": "handoffmode_dispatch",
+                    "value": " "
+                },
+                {
+                    "key": "handoffmode_pickup",
+                    "value": "In-Store Pickup"
+                },
+                {
+                    "key": "handoffmode_curbside",
+                    "value": "Curbside"
+                },
+                {
+                    "key": "handoffmode_drivethru",
+                    "value": "Mobile Drive-Up Window"
+                },
+                {
+                    "key": "handoffmode_dinein",
+                    "value": "Dine In"
+                },
+                {
+                    "key": "manual_fire_label",
+                    "value": "Check-in"
+                },
+                {
+                    "key": "thanks_curbsidepickup_instructions",
+                    "value": "For curbside pickup, please call the store when you arrive and we will run your order out to you. Thank you!"
+                },
+                {
+                    "key": "thanks_counterpickup_instructions",
+                    "value": "Thanks for your order!  When you arrive at the store, please proceed to the pickup counter for your food."
+                },
+                {
+                    "key": "thanks_delivery_instructions",
+                    "value": "Thanks for your order!"
+                },
+                {
+                    "key": "thanks_dispatch_instructions",
+                    "value": "Thanks for your order! Your Five Guys meal will be delivered soon by a third-party provider; please contact the store directly if you have any problems. Did you know our fries can be reheated? Simply preheat your oven to 350° F and cook for five minutes!"
+                },
+                {
+                    "key": "thanks_drivethru_instructions",
+                    "value": "Provide your name or order number to the attendant at drive-thru when you arrive."
+                },
+                {
+                    "key": "thanks_dinein_instructions",
+                    "value": "Thanks for your order!"
+                },
+                {
+                    "key": "thanks_pickupinstructions",
+                    "value": "Thanks for your order!  When you arrive at the store, please proceed to the pickup counter for your food."
+                }
+            ],
+            "latitude": 40.7518577,
+            "longitude": -73.9858725,
+            "maximumpayinstoreorder": 0.0000,
+            "metadata": null,
+            "minimumdeliveryorder": 0.0000,
+            "minimumpickuporder": 0.0000,
+            "mobileurl": null,
+            "name": "Five Guys NYC - 38th St",
+            "productrecipientnamelabel": "Name (no special instructions):",
+            "requiresphonenumber": true,
+            "showcalories": true,
+            "slug": "five-guys-nyc-38th-st",
+            "specialinstructionsmaxlength": 45,
+            "state": "NY",
+            "storename": "Five Guys",
+            "streetaddress": " 1008 6th Ave.",
+            "suggestedtippercentage": 0,
+            "supportedarrivalmessagehandoffmodes": [],
+            "supportedcardtypes": "American Express/Discover/MasterCard/Visa",
+            "supportedcountries": [
+                "CA",
+                "US"
+            ],
+            "supportedtimemodes": [
+                "advance",
+                "asap"
+            ],
+            "supportsbaskettransfers": true,
+            "supportscoupons": true,
+            "supportscurbside": true,
+            "supportsdinein": false,
+            "supportsdispatch": true,
+            "supportsdrivethru": false,
+            "supportsfeedback": true,
+            "supportsgrouporders": true,
+            "supportsguestordering": true,
+            "supportsloyalty": false,
+            "supportsmanualfire": false,
+            "supportsnationalmenu": false,
+            "supportsonlineordering": true,
+            "supportsproductrecipientnames": false,
+            "supportsspecialinstructions": false,
+            "supportssplitpayments": false,
+            "supportstip": true,
+            "telephone": "(555) 555-5555",
+            "url": null,
+            "utcoffset": -4,
+            "zip": "10018"
+        },
+        {
+            "acceptsordersbeforeopening": false,
+            "acceptsordersuntilclosing": true,
+            "advanceonly": false,
+            "advanceorderdays": 60,
+            "allowhandoffchoiceatmanualfire": false,
+            "attributes": [],
+            "availabilitymessage": null,
+            "brand": "fiveguys",
+            "calendars": null,
+            "candeliver": false,
+            "canpickup": true,
+            "city": "New York",
+            "contextualpricing": null,
+            "country": "US",
+            "crossstreet": "42nd Street between 7th and 8th Ave",
+            "customerfacingmessage": " \r\nCURBSIDE PICKUP is now available at this location! Place your order and select CURBSIDE from the available options.\r\n\r\n \r\n\r\nPLEASE CALL THE STORE at the phone number listed above when you arrive, tell us the color and model of your car, and we’ll run your order out to you!",
+            "customfields": [
+                {
+                    "id": 350567,
+                    "label": "Model",
+                    "qualificationcriteria": "CurbsidePickupOrdersOnly",
+                    "required": true,
+                    "validationregex": ""
+                },
+                {
+                    "id": 349154,
+                    "label": "Make",
+                    "qualificationcriteria": "CurbsidePickupOrdersOnly",
+                    "required": true,
+                    "validationregex": ""
+                },
+                {
+                    "id": 351980,
+                    "label": "Color",
+                    "qualificationcriteria": "CurbsidePickupOrdersOnly",
+                    "required": true,
+                    "validationregex": ""
+                }
+            ],
+            "deliveryarea": "",
+            "deliverydelayalertenabled": false,
+            "deliverydelayalertmessage": null,
+            "deliveryfee": 0,
+            "deliveryfeetiers": [],
+            "distance": 3.91,
+            "extref": "1499",
+            "hasolopass": false,
+            "id": 4406,
+            "isavailable": true,
+            "iscurrentlyopen": true,
+            "labels": [
+                {
+                    "key": "handoffmode_delivery",
+                    "value": "Delivery - DELIVERY 1st Party"
+                },
+                {
+                    "key": "handoffmode_dispatch",
+                    "value": " "
+                },
+                {
+                    "key": "handoffmode_pickup",
+                    "value": "In-Store Pickup"
+                },
+                {
+                    "key": "handoffmode_curbside",
+                    "value": "Curbside"
+                },
+                {
+                    "key": "handoffmode_drivethru",
+                    "value": "Mobile Drive-Up Window"
+                },
+                {
+                    "key": "handoffmode_dinein",
+                    "value": "Dine In"
+                },
+                {
+                    "key": "manual_fire_label",
+                    "value": "Check-in"
+                },
+                {
+                    "key": "thanks_curbsidepickup_instructions",
+                    "value": "For curbside pickup, please call the store when you arrive and we will run your order out to you. Thank you!"
+                },
+                {
+                    "key": "thanks_counterpickup_instructions",
+                    "value": "Thanks for your order!  When you arrive at the store, please proceed to the pickup counter for your food."
+                },
+                {
+                    "key": "thanks_delivery_instructions",
+                    "value": "Thanks for your order!"
+                },
+                {
+                    "key": "thanks_dispatch_instructions",
+                    "value": "Thanks for your order! Your Five Guys meal will be delivered soon by a third-party provider; please contact the store directly if you have any problems. Did you know our fries can be reheated? Simply preheat your oven to 350° F and cook for five minutes!"
+                },
+                {
+                    "key": "thanks_drivethru_instructions",
+                    "value": "Provide your name or order number to the attendant at drive-thru when you arrive."
+                },
+                {
+                    "key": "thanks_dinein_instructions",
+                    "value": "Thanks for your order!"
+                },
+                {
+                    "key": "thanks_pickupinstructions",
+                    "value": "Thanks for your order!  When you arrive at the store, please proceed to the pickup counter for your food."
+                }
+            ],
+            "latitude": 40.757239,
+            "longitude": -73.9892393,
+            "maximumpayinstoreorder": 0.0000,
+            "metadata": null,
+            "minimumdeliveryorder": 0.0000,
+            "minimumpickuporder": 0.0000,
+            "mobileurl": null,
+            "name": "Five Guys Times Square",
+            "productrecipientnamelabel": "Name (no special instructions):",
+            "requiresphonenumber": true,
+            "showcalories": true,
+            "slug": "times-square",
+            "specialinstructionsmaxlength": 45,
+            "state": "NY",
+            "storename": "Five Guys",
+            "streetaddress": "253 West 42nd Street",
+            "suggestedtippercentage": 0,
+            "supportedarrivalmessagehandoffmodes": [],
+            "supportedcardtypes": "American Express/Discover/MasterCard/Visa",
+            "supportedcountries": [
+                "CA",
+                "US"
+            ],
+            "supportedtimemodes": [
+                "advance",
+                "asap"
+            ],
+            "supportsbaskettransfers": true,
+            "supportscoupons": true,
+            "supportscurbside": true,
+            "supportsdinein": false,
+            "supportsdispatch": true,
+            "supportsdrivethru": false,
+            "supportsfeedback": true,
+            "supportsgrouporders": true,
+            "supportsguestordering": true,
+            "supportsloyalty": false,
+            "supportsmanualfire": false,
+            "supportsnationalmenu": false,
+            "supportsonlineordering": true,
+            "supportsproductrecipientnames": false,
+            "supportsspecialinstructions": false,
+            "supportssplitpayments": false,
+            "supportstip": true,
+            "telephone": "(555) 555-5555",
+            "url": null,
+            "utcoffset": -4,
+            "zip": "10036"
+        }
+    ]
+}
